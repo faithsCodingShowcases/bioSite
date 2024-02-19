@@ -39,7 +39,7 @@ header {
 	
 }
 
-.navbar a:active {
+.navbar a:hover {
 	background-color: #B282F0;
 }
 body {
@@ -47,15 +47,15 @@ body {
 	font-family: "Times New Roman", Times, serif;
 }
 img {
-	padding-left: 50px;
+	padding-left: 10%;
 	
 	
 }
 p {
 	font-size: 20px;
 	float: left;
-	padding-right: 50%;
-	padding-left: 3%;
+	padding-right: 30%;
+	padding-left: 12%;
 	
 }
 h1 {
